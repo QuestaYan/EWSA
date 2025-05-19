@@ -13,7 +13,7 @@ data_path       = os.path.join(root_path, 'data/MGTV WM')
 output_root     = os.path.join(root_path, 'output')
 embedded_folder = os.path.join(output_root, 'embedded')             
 json_path       = os.path.join(output_root, 'embed_coords.json')    
-patch_size      = 64                                               
+patch_size      = 256                                             
 path_to_model   = '/home/msi/yanquanfile/run_code/Real-time_watermark/EWSA/results/2024-05-22-15-16-55/model.pt'  
 
 
